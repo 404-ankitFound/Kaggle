@@ -1,2 +1,2 @@
 # Kaggle
-This reprository will contain solutions of problems present on kagle.
+This reprository will contain solutions of competition present on kagle.
